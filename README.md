@@ -1,4 +1,4 @@
-# Hi there 👋: I'm Nursultan
+# Hi there 👋 I'm Nursultan
 
 ### About Me :
 
