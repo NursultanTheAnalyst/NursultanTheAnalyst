@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Nursultan
 
-<!--
-**NursultanTheAnalyst/NursultanTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+A data analyst leveraging **SQL, MS Excel, Power BI**, and **Python** to extract actionable insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills include:
+- **Programming Languages**: Python (Pandas, Matplotlib, NumPy), SQL (Window, CTE, Join), R
+- **Data Visualization**: Advanced Excel (Pivot Table, VLOOKUP, XLOOKUP, Regression), Tableau, Power BI
+
+### How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nursultan-abubakirov-0651b1252/)
+
